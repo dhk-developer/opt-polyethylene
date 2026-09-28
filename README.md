@@ -1,6 +1,8 @@
 # opt-polyethylene
   Project for In2ResearchUK - in collaboration with University of Cambridge.
 
+  Write-up: [dhk-developer.github.io/structure-search.html](https://dhk-developer.github.io/structure-search.html)
+
 </br>
 
 ## Polyethylene Structure Generator
